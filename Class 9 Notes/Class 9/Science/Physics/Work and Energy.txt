@@ -1,0 +1,38 @@
+When after applying force, and object moves by 1 metre is called 1 joule 
+
+The capacity of doing work is called energy. Unit: Joule 
+
+Kilo-joule is a commercial unit and should not be used  in everyday life 
+
+Mechanical energy: kinetic energy and potential energy 
+
+The energy aquired by an object due to its motion is called kinetic energy   
+
+The energy aquired by an object when it is in rest is called potential energy 
+
+kinetic energy = 1/2 of mass • velocity
+
+Sum of potential and kinetic energy remains constant at any point 
+
+
+
+
+Final velocity² - initial velocity² = 2 • acceleration • displacement 
+
+    => v² - u² = 2as 
+    => v² - u²/ 2a = s 
+
+Work done = force • displacement (Force = mass • velocity)
+
+          => mass • acceleration • v² - u²/ 2as (acceleration gets cancelled out)
+
+          => 1/2 mass • (v - u)² (if initial velocity = 0)
+
+    Therefore, Work done = 1/2 of mass times velocity (work = 1/2 • m • v²)
+
+Potential energy = force • distance (or displacement) 
+
+                 => mass • acceleration due to gravity • height (because we are on earth and gravity acts towards the centre)
+
+            Therefore, Potential energy = mass times acceleration due to gravity times height (m • g • h)
+

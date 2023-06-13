@@ -1,0 +1,154 @@
+Light: light is a form of energy and it helps us to see things around us
+
+Properties of light: 
+(i) Rectilinear propogation: light travels in a straight line 
+(ii) It has a speed of 3 * 10^8 m/s 
+(iii) It is an electromagnetic wave 
+
+Phenomena: 
+(i) Reflection: opaque 
+(ii) Refraction: tranparent 
+(iii) Diffraction 
+
+Ray of light: straight path of light is called ray of light 
+
+Beam of light: bunch of rays is called beam of light 
+
+Reflection: the bouncing back of light when it hits a boundary between two media through which it cannot pass.
+
+•Imaginary perpendicular line on any media is called a normal
+
+Laws of Reflection: 
+
+(i) Angle of incidence = angle of reflection 
+
+(ii) Incident ray, reflected ray and the normal all lie in the same plane 
+
+
+
+
+06/05/22
+
+Spherical mirrors: mirrors whose reflecting surface are spherical are called Spherical mirrors.
+
+Concave mirrors: mirror whose reflecing surface is curved inwards.
+
+Convex mirrors: mirror whose reflecing surface is curved outwards. 
+
+Terminology: 
+
+Centre of curvature: centre of sphere of which mirror is a part is called center of curvature. 
+
+Pole: Centre part of a mirror is called a pole. 
+
+Radius of curvature: Distance between the pole and the center of curvature is called radius of the curvature. 
+
+Focus: Centre point between centre of curvature and pole is caleld focus. 
+
+Focal length: Distance between the focus and the pole are is called Focal length. 
+
+Rules: 
+
+(i) Ray parallel to principal axis passes through focus for concave mirror and for convex mirror it diverges from the focus. 
+
+
+07/05/22
+
+
+(ii) Ray of light which passes through the focus after reflection will travel to principal axis in a concave mirror and in convex 
+mirror a ray of light which is directed towards the principal focus after reflecing will travel to principal axis. 
+
+(iii) A ray passing through the centre of curvature after reflection will travel back in the same direction in concave mirror 
+and in case of convex mirror a ray of light is directed towards the centre of curvature back in the same direction.
+
+(iv) A ray of light incident obiquly (making an acute angle) towards the pole is reflected obiquly in concave and convex mirror.
+
+
+Relation between radius of curvature and focal length = Radius of curvature = 2* focal length 
+
+nice
+
+
+
+09/05/22
+
+
+Image: a point where rays meet or diverge after reflection. 
+
+Real image: 
+(i) This image is formed by converging lens. 
+(ii) This is formed in fromt of the mirror. 
+(iii) It can be obtained on a screen. 
+(iv) It is always inverted. 
+[DIAGRAM]
+
+Virtual image:
+(i) This image is formed by diverging rays. 
+(ii) This is formed behind a mirror. 
+(iii) It cannot be obtained on a sceen. 
+(iv) It is always erect. 
+[DIAGRAM]
+
+
+
+Concave mirror: 
+(i) Mirror whose reflecting surface is curved inwards. 
+(ii) It is called converging mirrors. 
+(iii) In this image formed can be real or virtual depending on the position. 
+(iv) Here focus and centre lies in front of mirror. 
+(v) [DIAGRAM]
+
+Convex mirror: 
+(i) Mirrors whose reflecting surface is curved outwards. 
+(ii) It is called diverging mirror.
+(iii) In this image formed is always virtual. 
+(iv) Here, focus and centre of curvature lies behind of the mirror. 
+(v) [DIAGRAM]
+
+Image formed by concave mirror: 
+
+(i) Object at infinity:
+[DIAGRAM]
+
+Position of object:
+Position of image: at focus 
+Nature: Real and inverted 
+Size: Diminised (small)
+
+
+
+
+
+
+
+
+
+
+
+1. Define the principal focus of a concave mirror. 
+= The point of a concave mirror where parallel rays converge is called the principal focus of a concave mirror. 
+
+2. Radius of curvature of a spherical mirror is 20 cm. What is its focal length? 
+= Radius of curvature = 20 cm 
+Since, focal length = 1/2 radius of curvature
+Therefore, focal length = 1/2 * 20 cm 
+                        = 10 cm 
+
+3. Name a mirror that can give an erect and enlarged image of an object. 
+= Concave mirror gives an erect and enlarged image of an object. 
+
+4. Why do we prefer a convex mirror as a rear-view mirror in vehicles? 
+= A convex mirror is prefered as a rear-view mirror in mirrors because a convex mirror always gives a diminished image by which the driver will get the whole 
+view of the object. 
+
+5. Find the focal length of a convex mirror whose radius of curvature is 32 cm. 
+= Radius of curvature = 32 cm 
+Since, focal length = 1/2 * radius of curvature 
+Therefore, focal length = 1/2 * 32 cm 
+                        = 16 cm 
+
+
+Mirror formula
+The relation betwenn object distance (u), object distance (v) and the focal length is given by the formula which is known as mirror formula.
+
+  

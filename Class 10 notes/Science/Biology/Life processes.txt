@@ -1,0 +1,222 @@
+1. Why is diffusion insufficient to meet the oxygen requirements of multicellular organisms?
+= Diffusion is insufficient to meet the oxygen requirements of multicellular organisms like humans because all the cells are not in direct contact with the atmosphere. 
+As a result, oxygen to reach all the cells in the body of a multicellular organism is required to pass through breathing mechanism which is then distributed to all parts 
+of the body. 
+
+2. What criteria do we use to decide whether something is alive? 
+= In order to decide whether something is dead or alive, we need to consider whether something is performing normal life-processes activities which are nutrition, 
+respiration, excretion, etc. Apart from all these, the organism will show growth, movement and maintenance of the body. 
+
+3. What are outside raw materials used for by an organism? 
+= The outside raw materials used for by and organism are as follows: 
+(i) Food/carbon-based sources for nutrition along with water. 
+(ii) Oxygen for the purpose of respiration. Sunlight is also used by green plants to make food. 
+(iii) Plants require nutrients such as nitrogen, phosphorus and potassium to grow which they absorb by their roots. 
+
+18/05/22
+
+Nutrition: It is a process of intake of carbohydrates, fats, proteins, vitamins, minerals and water by and organism as well as the 
+utilisation of these nutrients by an organism is called nutrition. 
+
+Modes of nutrition: There are two types of nutrition: Autotrophic and hetrotrophic 
+
+Autotrophic Nutrition: It is a mode of nutrition in which an organism synthesises its own food from simple inorganic materials like 
+carbon dioxide and water are present in the surrounding. 
+
+• The organisms which carry out autotrophic nutrition are called autotrophs. 
+
+                               Convert into
+Autotrophs=> simple inorganic ------------->  complex high energy
+
+Photosynthesis: The process by which green plants make their own food (like glucose) from carbon dioxide and water by using sunlight energy in the presence of 
+chlorophyll is called Photosynthesis. 
+
+• During the process solar energy is converted into chemical energy and carbohydrates are formed. 
+
+• Green leaves are the main site of photosynthesis
+
+• The whole process of photosynthesis can be shown by the following equation. 
+
+              Sunlight
+6CO₂ + 12H₂O -------------->   C₆H₁₂O + 6O₂ + 6H₂O
+              Chlorophyll 
+
+• The green pigment present in plants is called chlorophyll which is present in chloroplasts. 
+
+• Raw materials for photosynthesis: 
+(i) Sunlight (inorganic material)
+(ii) Sunlight absorbed by chloroplasts 
+(iii) CO₂ enters through stomata and oxygen is released
+(iv) Water => water + dissolved minerals like nitrogen, phosphorus, etc. 
+
+site of photosynthesis: Some cells contain green pigment which are cell organelles which contains chlorophyll
+
+
+[Leaf diagram]
+
+[Cross section of a leaf]
+
+Main events of photosynthesis: 
+(i) Absorption of light by chlorophyll 
+(ii) Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen 
+(iii) Reduction of carbon dioxide in corbohydrates 
+
+Stomata: Stomata are the tiny pores present on the suface of the leaf 
+
+[Stomata diagram]
+
+Functions of stomata: 
+(i) Exchage of gases (O₂ and CO₂) 
+(ii) Large amount of water (water vapour) loses during transpiration 
+
+Hetrotrophic nutrition: Hetrotrophic nutrition is the mode of nutrition in which an organism can't make (synthesise) its own food from simple organic maretials like 
+carbon dioxide and water and depends on other organisms for its food is called hetrotrophic nutrition. 
+
+There are three types of hetrotrophic nutrition: 
+
+(i) Holozoic nutrition: Animals take in solid food and breakdown inside the body is called holozoic nutrition. 
+
+(ii) Parasitic nutrition: The mode of nutrition in which organisms take nutrition from other organisms without killing them is called parasitic nutrition. 
+
+(iii) Saprophytic nutrition: The mode of nutrition in which organisms take nutrition from dead and decaying matter is called saprophytic nutrition. 
+
+Functions of organs: 
+
+(i) Mouth (buccal cavity): release of salivary anylase which breaks down carbohydrates into glucose 
+
+(ii) Oesophagus: takes food from mouth to stomach by the process of peristaltic movement 
+
+(iii) Stomach: releases hydrochloric acid (kills the bacteria and helps pepsin to work), pepsin (digests protein into amino acid) and mucus (doesn't allow the hydrochloric
+acid to destroy the stomach) from the gastric glands 
+
+(iv) Liver: releases bile juice (turns the acidic medium to alkaline) and bile salts (turns fat into fatty acid)
+
+(v) Pancreas: the pancreatic anylase releases trypsin (turns protein into amino acid) and lipase (turns fats into fatty acid) 
+
+(vi) Small intestine: absorbs amino acids, glucose and fatty acid 
+
+(vii) Large intestine: Absorbs the water 
+
+Respiration: A process in living organisms involving the production of energy typically with the intake of oxygen and release of carbon dioxide from the oxidation of 
+complex (glucose (C₆H₁₂O₆) ---> H₂O + ATP + CO₂) 
+
+• Energy currency of the cell is ATP (Adenosine Triphosphate)
+
+RNA: Rhibonucleic Acid 
+
+1. What are the differences between autotrophic and hetrotrophic nutrition? 
+
+=
+Autotrophic nutrition: 
+(i) Organism prepares its own food and is not dependent on other organisms 
+(ii) Food is prepared by water, carbon dioxide and sunlight 
+(iii) Chlorophyll is required for food preparation 
+(iv) All green plants and some algae undergo this mode of nutrition 
+
+Hetrotrophic nutrition: 
+(i) Organisms doesn't prepare food on its own and is dependent on other organisms for food. 
+(ii) Food can't be prepared by CO₂, water and sunlight. 
+(iii) Chlorophyll is not required for food preparation 
+(iv) All animals, most bacteria and fungi undergo this mode of nutrition 
+
+2. Where do plants get each of the rat matrials required for photosynthesis? 
+= (i) Carbon dioxide: plants get carbon dioxide from the environment/atmosphere through stomata 
+(ii) Water: plants absorb water from the soil through roots and transports to leaves 
+(iii) Sunlight: plants get sunlight from the sun 
+(iv) Chlorophyll: it is present in the chloroplast found in green leaves and green parts of the plant. 
+
+3. What is the role of the acid in the stomach? 
+= The role of acid in our stomach are as follows: 
+
+(i) To make acidic medium which is necessary for the activation of pepsin. 
+(ii) To kill bacteria which the food may contain.
+
+4. What is the function of digestive enzymes? 
+= The food that we eat is complex in nature, i.e., it contains complex molecules. Digestive enzymes break down these complex molecules into smaller and simpler molecules
+so that they can be absorbed by the walls of the intestine. 
+
+5. How is the small intestine designed to absorb digested food? 
+= Small intestine is the longest part (22 feet, 6 metres) of the alimentaly canal is is fitted in a compact space due to extensive coiling. The small intestine specialises in 
+the absorption of carbohydrates, fats and proteins. The food is absorbed by the walls of the intestine and is purposely long for the better digestion of the food. To increase 
+the absorption, small intestine possesses finger-like projection called villi which increases the surface area of the intestin for better efficiency. 
+
+• The energy during cellular respiration is immediately used to synthesise a molecule called ATP (adenosine triphosphate) which is used to fuel all other activities in the 
+cell. In these processes, ATP is broken down giving rise to a fixed amount of energy which can drive endothermic reactions take place in the cell. 
+
+Mechanism of human respiratory system: 
+
+(i) Nostril: air is taken into the body 
+(ii) Nasal passage: it is a channel for the air flow through the nose. 
+(iii) Nasal cavity: it is lined with hair and mucus membrane. It warms, moisturises and filters the air before it reaches the lungs. 
+(iv) Pharynx: It contains rings of cartilages which ensure that the air passage does not collapse. 
+(v) Larynx: it houses the vocal cords and manipulates the pitch and volumes which is essential for phonation; it is also known as voice 
+(vi) Trachea: Pharynx splits into trachea and oesophagus. It connects the larynx to the bronchi of the lungs. 
+(vii) Bronchi: Thay are the main phase way to the lungs. They are extensions of the wind pipe that shuttle air to and from the lungs. Oxygen goes to lungs and CO₂ leave 
+the oxygen through them. 
+(viii) Bronchioles: Bronchi gets smaller when they reach closer to the lungs and are called bronchioles. They are the passage ways by which air passes through the nose or 
+mouth to the alveoli
+(ix) Alveoli: They are smaller tubes which finally terminates in balloon-like structures which are called alveoli. They allow oxygen and carbon dioxide to move between the 
+lungs and blood stream. 
+(x) Blood capillaries: They are the sites of transfer of oxygen and other nutrients from the blood. They also collect CO₂ and waste materials and return it to the veins. 
+
+Respiration in plants: Respiration in polants is simpler than respiration in animals. Gasses exchange occurs through: 
+(i) Stomata in leaves 
+(ii) Lenticles and stems 
+(iii) General surface of roots 
+
+Exchange of gasses between alveolis, blood and tissue- 
+
+(i) Air (rich in O₂) reaches blood which combines with hemoglobin in RBC and O₂ is released in alveoli tissue (through blood vessels)
+
+(ii) CO₂ is released in blood and dissolved into it and carried away by the blood vessels. The CO₂ is released in alveolar sac which is sent out through the nostrils. 
+
+        Terrestrial organisms: use atmospheric oxygen for respiration. 
+
+
+
+
+
+
+
+
+1. Waste excreted from plants are: 
+
+(i) Gaseous waste: Through stomata pores, carbon dioxide is taken during transpiration and oxygen is given out during photosynthesis 
+
+(ii) Liquid waste: Through stomata pores by transpiration, other wastes- they are stored in leaves, dead cells and the leaves fall off. Some other 
+waste products are stored as resisn and gums in old xylem of the plant and other wastes are also thrown out from nodes into the soil 
+
+3. The amount of urine produced depends on how much excess water there is in the body and how much dissolved waste there is to be excreted. On a hot 
+day, when we sweat and lose a lost of water, waste and salt, most of the water and salt in the kidneys will be reabsorped into the blood from the filter 
+in the tubule. Thus the volume of urine produced will be less. 
+                In winters, when we do not sweat a lot, a little water and salt will be reabsorped and the volume of urine produced will be more. 
+Thus there is perfect osmoregulation in the body. 
+
+Q: Write the difference between voluntary and involuntary muscles. 
+
+
+
+5. The fats are digested in the small intestine. The secretion of liver called bile, bile breaks down the large globules into small globules. This is 
+called emulsification of fat. The bile also makes the medium alkaline so that the pancreatic enzymes containting lipase further digest fat to form 
+fatty acid. The alkaline medium is required for pancreatic enzymes act as lipase. 
+
+6. Saliva contains enzymes called salivary emylase and is released in our mouth, its breakdown starts into sugar (complex carbohydrates into simpler 
+ones) 
+
+7. Autotrophic nutrition takes place by the process of photosynthesis. CO2, H@O, chlorophyll pigment and sunlight are the necessary conditions required 
+for autotrophic nutrition. The by-product of photosynthesis process is oxygen. 
+
+9. The alveolis are present in the terminals of bronchioles, they are balloon shaped structure which increases the surface area for the exchange of 
+gases and richly supplied with blood vessels to take the oxygen to different cells. 
+
+10. Hemoglobin is a red pigment present in our body which carries oxygen to all the parts of the body. If there is defeciency of hemoglobin, the amount
+of oxygen reaching in our body will reduce which may lead to less energy reaching in our body leading to a disease called anemia (weakness, tirednes,
+lack of oxygen in our body are the symptoms of anemia)
+
+11. The heart of human being consists of two sides- right and left, the right side of the heart recevies deoxygenated blood form the cells and tissues 
+and sends it further for purification in lungs. 
+                The left side of the heart recevies oxygenated blood which is pumped further and sent to all parts of the body. This is called double 
+circulation, the energy demanding is too large hence it is necessary for separation of oxygenated and deoxygenated blood to need this energy demand. 
+
+
+
