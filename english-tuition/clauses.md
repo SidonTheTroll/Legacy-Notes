@@ -21,6 +21,16 @@
 
 - In a clause the minimum criteria is there should be one main clause and one subordinate clause but there can be more than one main clause and more than one subordinate clause in a clause
 
-## Connnecting Two main clauses 
+- **Connnecting two main clauses**
+    > Eg. Ram is studing and/but Hari is playing. 
+    - For connecting main clauses we use 'and' and 'but'.
+- **Connecting main clause and a subordinate clause** 
+    - For this, we use **subordinating conjunction**, i.e., when, before, though, although, because, etc.
+    - We can also use **relative pronouns**, i.e., who, whom, whose, which, whos, that, etc.
 
-> Eg. Ram is studing and/but Hari is playing. 
+## Coordinating Conjunctions 
+Coordinating conjunctio is a word that joins two elements of equal grammatical rand or importance. They can join two verbs, adjectives, phrases, nouns and independent clauses. 
+
+> Seeema is cooking and Ravi is serving. 
+> > Here, **and** is the **coordinating conjunction**. 
+
