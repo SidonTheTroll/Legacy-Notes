@@ -203,3 +203,26 @@ This is also known as relative clause.
 ---
 
 ## Adverbial Clause 
+- An adverb modifies a verb, an adjectice and another adverb 
+
+An adverb clause plays the role of an adverb in a sentence. It begins with a sub-ordinating conjunction. They answer questions like 'why', 'when', 'where', 'how'.  
+They can be placed at the beginning, middle or at the end of a sentence. They can be switched around (we can place it (the clause) anywhere in the sentence). This 
+is only possible in adverbial clause. 
+
+> [!IMPORTANT]
+> If adverbial clause is placed at the beginning of a sentence then we put comma (,) after the clause. If adverbial clause is placed in the middle of a sentence then we put two commas (, .... ,), i.e., before the clause and after the clause. If adverbial clause is placed at the end of a sentence then we do not put any comma. 
+
+- I missed the flight because I couldn't get up early.
+	- I missed the flight = independent clause 
+	- Because I couldn't get up early = adverbial clause 
+	- Because = sub-ordinating conjunction. 
+    - Clause at the beginning: Because I couldn't get up early, I missed the flight. 
+    - **COMMA IS COMPULSARY**
+- My neighbour, when he is angry, starts shouting. 
+    - Main clause: My neighbour starts shouting. 
+	- Clause: When he is angry. 
+- After the home assignment is done, I will sleep for some time.
+	- Conjunction: after 
+	- Adverbial clause: After the home assignment is done, 
+	- Main clause: I will sleep for some time. 
+    - Switch around: I will sleep for some time after the home assignment is done. 
