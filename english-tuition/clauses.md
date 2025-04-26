@@ -226,3 +226,9 @@ is only possible in adverbial clause.
 	- Adverbial clause: After the home assignment is done, 
 	- Main clause: I will sleep for some time. 
     - Switch around: I will sleep for some time after the home assignment is done. 
+- **Dependent clause at the end**: My neighbour starts shouting when he is angry. 
+- After the home assignment, I will sleep for some time. 
+    - Conjunction: after 
+    - Adevrbial clause: After the home assignment is done, 
+    - Main clause: I will sleep for some time. 
+    - Switch around: I will sleep for some time after the home assignment is done. 

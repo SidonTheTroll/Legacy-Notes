@@ -18,6 +18,28 @@
 4. fell on a crystal vase right over the window
 5. sill and scattered it from pieces.
 
+| | Incorrect | Correct | 
+|:-:|:-:|:-:|
+| 1. | played | playing | 
+| 2. | the | a | 
+| 3. | a | the | 
+| 4. | over | on | 
+| 5. | from | into | 
+
+1. One day as the girl was played in the courtyard
+2. the ball bounced very high that it flew through the 
+3. neighbour's window. Unfortunately a ball 
+4. fell on a crystal vase right over the window
+5. sill and scattered it from pieces.
+
+| | Incorrect | Correct | 
+|:-:|:-:|:-:|
+| 1. | played | playing | 
+| 2. | the | a | 
+| 3. | a | the 
+| 4. over | on | 
+| 5. | from | into | 
+
 ## 2. Jumbled words 
 1. Birds / in the / world / largest / at / cannot / fly / all / the
     - The largest birds in the world cannot fly at all. 
@@ -31,5 +53,25 @@
     - Vocabulary will be for four marks out of twenty marks. 
     - Out of twenty marks, four marks will be for vocabulary.
 
+--- 
+
+1. The / gifts / youngsters / on / give / elders / festivals 
+    - Elders give the youngsters gifts on festivals
+2. very difficult / it was / to travel / earlier / long distances 
+    - Earlier, it was very difficult to travel long distances 
+3. backs / their belongings / travellers carried / on their 
+    - Travellers carried their belongings on their backs 
+4. few places / take rest / on the / there were / to / way 
+    - There were few places on the way to take rest 
+5. people / to travel / therefore / dared / very adventurous / only 
+    - Therefore, only very adventurous people dared to travel 
+
+
 ## 3. Fill in the blanks 
-A rain forest vine (a)---- (has) dish shaped leaves which (b)---- (produce) echoes (c)---- (attract) bats for pollination. The leaves of this plant develop such echoes that the bats (d)---- (discover) its flowers at once. 
+A rain forest vine 1.---- (is) dish shaped leaves which 2.---- (produce) echoes 3.---- (attract) bats for pollination. The leaves of this plant develop such echoes that the bats 4.---- (discover) its flowers at once. 
+
+1. has 
+2. produces 
+3. to attract 
+4. can discover 
+
